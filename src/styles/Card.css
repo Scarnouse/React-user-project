@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Asap');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+.Card {
+  display: flex;
+  margin-bottom: 2%;
+}
+
+.Card-img {
+  border-radius: 50%;
+  width: 125px;
+  height: auto;
+}
+
+.Card-text {
+  font-family: 'Asap', sans-serif;
+  margin-right: 2px;
+}
